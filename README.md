@@ -1,3 +1,6 @@
+It is clonned from the repo https://github.com/mwaylabs/flutter-apns
+Just updated the firebase dependency for supporting the newer vresions of firebase. 
+
 # apns
 
 Plugin to implement APNS push notifications on iOS and Firebase on Android.
